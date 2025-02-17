@@ -21,7 +21,7 @@ The dataset used for this analysis is available on Kaggle:
 ## 📊 Tableau Dashboard
 The interactive sales analysis dashboard is accessible here:
 [**Bakery Sales Dashboard in Tableau**](https://public.tableau.com/app/profile/mariia.nykoniuk/viz/bakerydailysales_17397912303320/Overview)
-![Bakery Sales Dashboard](images/dashboard.png)
+![Bakery Sales Dashboard](bakery_sales_analysis_dashboard.png)
 
 ## 📈 Key Insights from the Analysis
 ### **1. General Sales Overview**
